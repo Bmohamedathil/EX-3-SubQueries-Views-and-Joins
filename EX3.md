@@ -1,5 +1,7 @@
 # EX 3 SubQueries, Views and Joins 
 
+## AIM:
+To create Subqueries, Views and Joins.
 
 ## Create employee Table
 ```sql
@@ -194,4 +196,7 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 
 #### RIGHT JOIN
 ![270860293-7fe7c05b-ca77-4da2-9ab9-38a5f50a4879](https://github.com/Bmohamedathil/EX-3-SubQueries-Views-and-Joins/assets/119560261/58ad581e-3d72-44f4-8008-e2eb32863957)
+
+## RESULT
+Thus,the Subqueries,Views and Joins are created.
 
